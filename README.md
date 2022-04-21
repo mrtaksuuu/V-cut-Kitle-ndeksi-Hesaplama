@@ -1,1 +1,2 @@
-# V-cut-Kitle-ndeksi-Hesaplama
+# Vucut-Kitle-indeksi-Hesaplama
+[Patika Link](https://app.patika.dev/)
